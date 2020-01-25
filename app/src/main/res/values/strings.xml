@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">HomeWork_WhatsApp_LinearLayout</string>
+    
+    <string-array name="forSpinnerName">
+
+        <item>Андрей</item>
+        <item>Иван</item>
+        <item>Сергей</item>
+        <item>Петр</item>
+        <item>Денис</item>
+
+    </string-array>
+
+    <string-array name="forSpinnerGroup">
+
+        <item>Учеба</item>
+        <item>Тренажерка</item>
+        <item>Семья</item>
+
+    </string-array>
+    
+</resources>
