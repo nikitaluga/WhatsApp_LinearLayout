@@ -19,7 +19,8 @@
             android:layout_height="60dp"
             android:layout_weight="1"
             android:entries="@array/forSpinnerName"
-            android:spinnerMode="dropdown"
+            android:spinnerMode="dropdown"/>
+<!--            android:onClick="onClickMySpinnerName"-->
             />
 
         <Spinner
@@ -31,7 +32,7 @@
     </LinearLayout>
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/textViewName"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Имя"
@@ -40,7 +41,7 @@
         android:gravity="bottom"/>
 
     <TextView
-        android:id="@+id/textView2"
+        android:id="@+id/textViewGroup"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Группа"
